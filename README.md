@@ -1,2 +1,2 @@
 # waterfire
-simple java mechanics played into minecraft
+minecraft plugin test- plays startup message
