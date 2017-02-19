@@ -1,0 +1,22 @@
+main: io.github.megacow2011.waterfire
+name: WaterFire
+version: 1.0.1.3pre
+author: Andy-Ren
+description: Stem Cell Plugin
+main: io.github.megacow2011.waterfire.Main
+commands:
+  saucy:
+    description: An Special Sauce
+    usage: /saucy
+    permission: saucy.waterfire
+    permission-message: You don't have the saucy.waterfire permission.
+  afk:
+    description: AFKKK
+    usage: /afk
+    permission: afk.waterfire
+    permission-message: You don't have the permission.  
+  unafk:
+    description: unafk
+    permission: unafk.waterfire
+    permission-message: You don't have the permission.
+    
